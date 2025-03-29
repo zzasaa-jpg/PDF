@@ -1,5 +1,12 @@
 # PDF Creater By Python
 
+## Details of stack, third party, programming language
+- General purpose
+- fpdf, pyfiglet
+- Python
+
+## Program main functionality
+
 ### This program create pdf file by using python.
 
 #### Here mulitiple options for create a pdf file.
@@ -24,15 +31,3 @@
 
 ## `File name`
 ### Enter the file name for your PDF file.
-
-## Terminal commands
-
-## `Python main.py` ~ Foer Windows command
-
-## `Python3 main.py` ~ For Mac command
-
-## Visual Studio Commands
-
-## `Click the play button on the top right.`
-
-**Thanks for Reading...**
